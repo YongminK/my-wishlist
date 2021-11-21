@@ -1,16 +1,21 @@
 import React from "react";
-import {Box, Typography} from "@mui/material";
+import {Box} from "@mui/material";
+import {makeStyles} from "@mui/styles";
+import clsx from "clsx";
 
+const useStyles = makeStyles(() => ({
+    header: {
+        fontSize: "5rem",
+        lineHeight: 0,
+        fontWeight: 600
+    }
+}))
 
 const Header = () => {
+    const classes = useStyles()
     return (
         <Box display={'flex'} justifyContent={'center'}>
-            <Typography sx={{
-                fontFamily: 'Christmas',
-                fontSize: "5rem",
-                lineHeight: 0,
-                fontWeight: 600
-            }}>My Wishlist</Typography>
+            <p className={clsx('christmas-font',classes.header)}>My Wishlist</p>
         </Box>
     )
 }

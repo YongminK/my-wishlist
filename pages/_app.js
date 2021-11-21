@@ -5,8 +5,8 @@ import {ThemeProvider} from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import {CacheProvider} from '@emotion/react';
 import createEmotionCache from "helpers/createEmotionCache";
-import 'misc/generators/table/GridRow.sass'
 import theme from "helpers/theme";
+import '/styles/style.scss'
 // Client-side cache, shared for the whole session of the user in the browser.
 const clientSideEmotionCache = createEmotionCache();
 

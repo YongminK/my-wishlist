@@ -1,6 +1,7 @@
 import React from "react";
 import {Box, Container} from "@mui/material";
 import Header from "views/Main/components/Header";
+import Text from "views/Main/components/Text";
 
 const classes = {
     frame: {
@@ -17,7 +18,8 @@ const Main = () => {
         <Container sx={{height: '100vh'}}>
             <Box sx={classes.frame}/>
             <Header/>
-
+            <Text/>
+            <Box sx={classes.frame}/>
         </Container>
     )
 }
