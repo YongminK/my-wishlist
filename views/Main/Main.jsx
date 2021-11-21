@@ -7,7 +7,7 @@ const classes = {
     frame: {
         backgroundImage: 'url("6157653.jpg")',
         backgroundRepeat: "no-repeat",
-        backgroundPosition: "-20px -20px",
+        backgroundPosition: "center -20px",
         backgroundSize: "cover",
         height: "25vh",
     }
