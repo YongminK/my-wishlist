@@ -1,0 +1,23 @@
+export const LIST = [
+    "https://i.pinimg.com/564x/df/18/fd/df18fd8cc3cec70350ddcc9c61dea2f8.jpg",
+    "https://i.pinimg.com/564x/32/76/e8/3276e85c1bdc1819b70f81fe264e9cdb.jpg",
+    "https://i.pinimg.com/564x/f4/2f/aa/f42faabf4d7040873859e3b9783d1f85.jpg",
+    "https://i.pinimg.com/564x/37/15/c0/3715c0b944680374256df3d79fe1fafe.jpg",
+    'https://i.pinimg.com/736x/d3/e5/3e/d3e53e72172abbe38155fceda43ab84c.jpg',
+    "https://i.pinimg.com/736x/3f/c3/aa/3fc3aa6d05c214aa3cb293de9ffc60ee.jpg",
+    "https://i.pinimg.com/564x/19/e2/59/19e259dac24eb14852a42ed22bbf5937.jpg",
+    "https://i.pinimg.com/736x/b7/ed/18/b7ed18a18e5373eb9603bb2dccf8d125.jpg",
+    "https://i.pinimg.com/736x/90/a0/26/90a0265158940fe27752ca9b01a56cfa.jpg",
+    "https://i.pinimg.com/736x/dd/aa/8c/ddaa8c887db8aa8a6d219574a2b3963c.jpg",
+    "https://i.pinimg.com/564x/9d/27/ff/9d27ffbb886ed16a8df1c17d728c5529.jpg",
+    "https://i.pinimg.com/564x/ce/78/4d/ce784d56539449974d12c84280b6fb21.jpg",
+    "https://i.pinimg.com/736x/96/b9/a3/96b9a30b09324dea2268bc1cf601c569.jpg",
+    "https://i.pinimg.com/736x/41/c2/79/41c27981dcf950a7884d65fdb59394f8.jpg",
+    "https://i.pinimg.com/736x/18/df/ab/18dfab1dde9ba8326e24159f07751411.jpg",
+    "https://i.pinimg.com/564x/85/06/bf/8506bfe5f0d9f5002d920057dc031b71.jpg",
+    "https://i.pinimg.com/736x/68/3f/19/683f19817a0d0340d9b67e642cfd3e39.jpg",
+    "https://i.pinimg.com/736x/48/41/82/48418261639343a1471be4fc1dbce5d5.jpg",
+    "https://i.pinimg.com/736x/41/13/b2/4113b2c8cc95637385cbb2ca6e8a8b49.jpg",
+    "https://i.pinimg.com/564x/d8/05/96/d805961d527d9b9556f6fd11cb0f3b68.jpg",
+    "https://i.pinimg.com/564x/0e/ee/21/0eee21ee20eaef17e313f656902328dd.jpg"
+]
